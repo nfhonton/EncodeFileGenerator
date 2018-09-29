@@ -1,0 +1,21 @@
+.d2v Filename (NO EXTENSION) (EX: VideoName)
+Subtitle Full Filename (EX: VideoNameFQC.ass)
+Karaoke Full Filename (EX: VideoName_OPKaraoke.ass)
+Full Path of Splash Image (EX: C:\Splashes\splash.jpg) (can be left blank)
+Video Quality of Episode (HD, HD720, SD, FQC, QC, Distro)
+Trim Times (FOR EPISODE)
+989
+1139
+1392
+1589
+2512
+4432
+Trim Times (FOR CMs) - put "CM" in a line before them
+CM
+224
+445
+778
+999
+1045
+1450
+Full Paths of any TL Note Images (in individual lines)
